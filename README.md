@@ -1,3 +1,4 @@
 ###### This is Git tutorials By Arvind
 #### #Learning git commands
-##### This is first commit, file changed the branch
+##### This is first commit.
+These chnages are by developer 2
